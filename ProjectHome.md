@@ -1,0 +1,1 @@
+Steering Behaviours written in C#, based on those provided in Mat Bucklands Programming game AI by example book.
